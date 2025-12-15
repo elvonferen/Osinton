@@ -1,0 +1,16 @@
+/home/vali/NetBeansProjects/osint-tool/src/main/java/it/osint/OsintTool.java
+/home/vali/NetBeansProjects/osint-tool/src/main/java/it/osint/ai/AIAnalyst.java
+/home/vali/NetBeansProjects/osint-tool/src/main/java/it/osint/ai/SearchPlan.java
+/home/vali/NetBeansProjects/osint-tool/src/main/java/it/osint/ai/ollama/LLMAnalyzer.java
+/home/vali/NetBeansProjects/osint-tool/src/main/java/it/osint/ai/ollama/OllamaLLMAnalyzer.java
+/home/vali/NetBeansProjects/osint-tool/src/main/java/it/osint/ai/ollama/OllamaQueryGenerator.java
+/home/vali/NetBeansProjects/osint-tool/src/main/java/it/osint/gui/MainMenu.java
+/home/vali/NetBeansProjects/osint-tool/src/main/java/it/osint/gui/WebSearchFrame.java
+/home/vali/NetBeansProjects/osint-tool/src/main/java/it/osint/model/PersonProfile.java
+/home/vali/NetBeansProjects/osint-tool/src/main/java/it/osint/model/SocialMatch.java
+/home/vali/NetBeansProjects/osint-tool/src/main/java/it/osint/search/SearchEngine.java
+/home/vali/NetBeansProjects/osint-tool/src/main/java/it/osint/search/SearchResult.java
+/home/vali/NetBeansProjects/osint-tool/src/main/java/it/osint/search/SerpApiEngine.java
+/home/vali/NetBeansProjects/osint-tool/src/main/java/it/osint/util/HttpUtil.java
+/home/vali/NetBeansProjects/osint-tool/src/main/java/it/osint/util/RegexExtract.java
+/home/vali/NetBeansProjects/osint-tool/src/main/java/it/osint/web/UnifiedSearchEngine.java

@@ -1,0 +1,16 @@
+it/osint/ai/ollama/OllamaQueryGenerator.class
+it/osint/ai/SearchPlan.class
+it/osint/ai/ollama/LLMAnalyzer.class
+it/osint/ai/ollama/OllamaLLMAnalyzer.class
+it/osint/search/SearchEngine.class
+it/osint/util/RegexExtract.class
+it/osint/model/PersonProfile.class
+it/osint/search/SearchResult.class
+it/osint/search/SerpApiEngine.class
+it/osint/util/HttpUtil.class
+it/osint/gui/WebSearchFrame.class
+it/osint/ai/AIAnalyst.class
+it/osint/model/SocialMatch.class
+it/osint/web/UnifiedSearchEngine.class
+it/osint/gui/MainMenu.class
+it/osint/OsintTool.class
