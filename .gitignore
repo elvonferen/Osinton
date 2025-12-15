@@ -1,0 +1,13 @@
+target/
+nbproject/private
+nbactions.xml
+*.log
+.DS_Store
+.idea/
+*.iml
+
+# OS files
+Thumbs.db
+
+# Local configs
+*.env

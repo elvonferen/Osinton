@@ -6,7 +6,7 @@ import java.awt.*;
 public class MainMenu extends JFrame {
 
     public MainMenu() {
-        setTitle("OSINT Intelligence Tool");
+        setTitle("OSINTON");
         setSize(600, 360);
         setLocationRelativeTo(null);
         setDefaultCloseOperation(EXIT_ON_CLOSE);
@@ -19,7 +19,7 @@ public class MainMenu extends JFrame {
         title.setFont(new Font("Segoe UI", Font.BOLD, 26));
 
         JLabel subtitle = new JLabel(
-                "<html>Open Source Intelligence<br>Person profiling & web discovery</html>");
+                "<html>Open Source Intelligence<br>Person profiling & web discovery Made by elvonferen on github</html>");
         subtitle.setFont(new Font("Segoe UI", Font.PLAIN, 14));
         subtitle.setForeground(Color.DARK_GRAY);
 

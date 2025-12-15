@@ -17,7 +17,7 @@ public class WebSearchFrame extends JFrame {
     private JTextArea report;
 
     public WebSearchFrame() {
-        setTitle("OSINT Investigation Console");
+        setTitle("OSINTON");
         setSize(1400, 800);
         setLocationRelativeTo(null);
         setDefaultCloseOperation(DISPOSE_ON_CLOSE);
