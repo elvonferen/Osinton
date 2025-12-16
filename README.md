@@ -63,31 +63,31 @@ Osinton can optionally use **Ollama** to improve OSINT query generation using a 
 ```
 curl -fsSL https://ollama.com/install.sh | sh
 ```
-##Installing Mistral
+## Installing Mistral
 
 ```
 ollama pull mistral
 ```
 
-##Start ollama
+## Start ollama
 
 ```
 ollama serve
 ```
 
-##Runnning the program
+## Runnning the program
 ```
 java -jar osinton.jar
 ```
 
 
-##Donations
+## Donations
 
 If you find this project useful and would like to support its development you can buy me a coffee
 
 Any contributions is greatly appreciated and helps keep the project alive and evolving
 
-##My btc address
+## My btc address
 ```
 bc1qpkncf9mfxhp36jzfd6fhrhy05k2nw3akud7jsa
 ```
